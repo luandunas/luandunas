@@ -9,6 +9,11 @@
 	</ul>
 </div>
 
+##
+
 <div>
 	<h1>🏆 Conquistas</h1>
+	<ul>
+		<li><img src="img/discordDeveloperBadge.svg"></li>
+	</ul>
 </div>
