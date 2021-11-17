@@ -22,4 +22,7 @@
 
 <div>
 	<h1>💡 Projetos</h1>
+	<ul>
+		<li><h2>Globout</h2></li>
+	</ul>
 </div>
