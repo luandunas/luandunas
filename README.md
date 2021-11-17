@@ -27,3 +27,7 @@
 	<dt><h2><a href="https://sanud.bot.nu">Rádio Lo-fi 24/7</a></h2></dt>
 	<dd>Sanud é mais um dos meus Chatbots, mas dessa vez resolvi ampliar para aprender mais linguagens e frameworks. Busquei criar um ambiente confortável para quem visita o website; para agregar ao lofi, criei uma interface baseada no Windows 98 com backgrounds animados e simples.<br><img src="img/sanudLofiStation.png"><br><p>Linguagens e Ferramentas utilizadas:<br><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-right: 30px;"> <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></p></dd>
 </dl>
+
+##
+
+# Gostou? Que tal me seguir nas redes sociais! <img src="img/socialmedia.gif" width="30px">
