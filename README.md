@@ -17,3 +17,9 @@
 		<li><img src="img/discordDeveloperBadge.svg"> Badge concedida pelo <a href="https://discord.com/">Discord</a> por criar um Chatbot que está presente em mais de <strong>500</strong> grupos e contando! <img src="img/discordprofile.PNG"></li>
 	</ul>
 </div>
+
+##
+
+<div>
+	<h1>💡 Projetos</h1>
+</div>
