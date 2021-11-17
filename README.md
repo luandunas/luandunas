@@ -30,4 +30,4 @@
 
 ##
 
-# Gostou? Que tal me seguir nas redes sociais! <img src="img/socialmedia.gif" width="30px">
+# Gostou? Que tal me seguir nas redes sociais! <img src="img/socialmedia.gif" width="50px">
