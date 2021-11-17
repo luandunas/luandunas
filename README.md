@@ -23,5 +23,5 @@
 <dl>
 	<h1>💡 Projetos</h1>
 	<dt><h2>Globout: Chatbot para o Discord</h2></dt>
-	<dd>Globout é um Chatbot desenvolvido usando API do Discord e da Steam. Ele foi criado para consultar estatísticas de jogadores no <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">Counter-Strike: Global Offensive</a> <img src="img/globoutPreview.PNG"></dd>
+	<dd>Globout é um Chatbot desenvolvido usando API do Discord e da Steam. Ele foi criado para consultar estatísticas de jogadores no <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">Counter-Strike: Global Offensive</a><br><img src="img/globoutPreview.PNG"></dd>
 </dl>
