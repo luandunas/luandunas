@@ -23,6 +23,6 @@
 <div>
 	<h1>💡 Projetos</h1>
 	<ul>
-		<li><h2>Globout</h2></li>
+		<li><h2>Globout</h2><p>Globout é um bot</p></li>
 	</ul>
 </div>
