@@ -20,10 +20,8 @@
 
 ##
 
-<div>
-	<h1>💡 Projetos</h1>
-	<dl>
-		<dt>##Globout</dt>
-		<dd>- black hot drink</dd>
-	</dl>
-</div>
+##💡 Projetos
+<dl>
+	<dt>##Globout</dt>
+	<dd>- black hot drink</dd>
+</dl>
