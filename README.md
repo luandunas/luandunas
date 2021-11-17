@@ -14,6 +14,6 @@
 <div>
 	<h1>🏆 Conquistas</h1>
 	<ul>
-		<li><img src="img/discordDeveloperBadge.svg"> Badge concedida pelo <a href="https://discord.com/">Discord</a> por criar um Chatbot que está presente em mais de 500 grupos e contando! <img src="img/discordprofile.PNG"></li>
+		<li><img src="img/discordDeveloperBadge.svg"> Badge concedida pelo <a href="https://discord.com/">Discord</a> por criar um Chatbot que está presente em mais de <strong>500</strong> grupos e contando! <img src="img/discordprofile.PNG"></li>
 	</ul>
 </div>
