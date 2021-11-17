@@ -3,7 +3,7 @@
 <div>
 	<ul>
 		<li>🔍 Estou buscando a primeira oportunidade na área como Desenvolvedor Front-end | Web Júnior</li>
-		<li>📚 Estou cursando uma capacitação Full Stack na <a href="https://newtab.academy/">New Tab Academy</a></li>
+		<li>📚 Estou cursando uma capacitação Full Stack na <a href="https://newtab.academy/" target="_blank">New Tab Academy</a></li>
 		<li>📭 Você pode me encontrar em: [@luandunas](https://twitter.com/luandunas)</li>
 	</ul>
 </div>
