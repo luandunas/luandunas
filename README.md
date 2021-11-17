@@ -9,8 +9,6 @@
 	</ul>
 </div>
 
-##
-
 <div>
 	<h1>🏆 Conquistas</h1>
 </div>
