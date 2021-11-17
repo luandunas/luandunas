@@ -22,7 +22,8 @@
 
 <div>
 	<h1>💡 Projetos</h1>
-	<ul>
-		<li><h2>Globout</h2>Globout é um bot</li>
-	</ul>
+	<dl>
+		<dt>##Globout</dt>
+		<dd>- black hot drink</dd>
+	</dl>
 </div>
